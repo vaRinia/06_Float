@@ -1,0 +1,25 @@
+div {
+	width: 100px;
+	height: 100px;
+	float:left;
+	clear:left;
+}
+
+div#conte {
+	background-color:purple;
+	padding:10px;
+	width: 400px;
+	height: 320px;
+}
+
+.clearfix {
+	overflow:auto;
+	}
+
+.float {
+	float:left;
+}
+
+#rojo {background-color: red}
+#azul {background-color: blue}
+#rosa {background-color: pink}
